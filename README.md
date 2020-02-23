@@ -134,5 +134,5 @@ _The software is provided as is. It might work as expected - or not. Use at your
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-Copyright (c) 2020 **_Dusty McCord_**
+Copyright (c) 2020 **_Dusty McCord, Eric Settels, K. Wicz, Josh Hellman & Todd Walraven_**
 
